@@ -2,4 +2,4 @@
 
 ## projet personnel
 
-<span style='color:red'>TAF :</span> exécuter le fichier `.gitignore`
+<span style='color:red'>TAF :</span> exécuter le fichier **`.gitignore`
