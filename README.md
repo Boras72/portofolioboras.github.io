@@ -2,4 +2,4 @@
 
 ## projet personnel
 
-TAF : exécuter fichier `gitignore`
+TAF : exécuter le fichier <span style='color:grey'>gitignore</span>
