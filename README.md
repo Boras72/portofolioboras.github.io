@@ -2,4 +2,4 @@
 
 ## projet personnel
 
-TAF : exécuter fichier `.gitignore`
+TAF : exécuter fichier '.gitignore'
